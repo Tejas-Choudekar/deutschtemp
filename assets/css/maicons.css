@@ -2632,3 +2632,12 @@
 .mai-woman-outline:before {
   content: "\eba1";
 }
+th{
+  padding-left: 5px;
+  background-color: lightblue;
+  text-align:center;
+}
+table,th,td{
+  border:1px solid black;
+  padding-left: 5px;
+}
